@@ -1,0 +1,9 @@
+pages\LoginPages.class
+Base\BaseUtil.class
+Steps\Java8VersionStep$1.class
+Steps\Java8VersionStep.class
+Steps\LoginStep$User.class
+Steps\LoginStep.class
+Transformation\EmailTranform.class
+runner\TestRunner.class
+Steps\Hook.class
